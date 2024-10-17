@@ -39,8 +39,6 @@
     opacity: 0.6;
 }
 
-.header__logo-image {}
-
 .header__logo-image {
     grid-column: 2 / 3;
 }
