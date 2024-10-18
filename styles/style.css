@@ -179,7 +179,8 @@
 .card-link {
     display: block;
     text-decoration: none;
-
+    height: 100%;
+    width: 100%;
 }
 
 .lots__card-list-item {
@@ -188,10 +189,6 @@
     flex-grow: 1
 }
 
-.card-link {
-    height: 100%;
-    width: 100%;
-}
 
 .card {
     padding: 50px 40px;
